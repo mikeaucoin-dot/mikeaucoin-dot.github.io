@@ -1,2 +1,5 @@
-# mikeaucoin-dot.github.io
-Public application information and privacy notices for the private Zedwork desktop application.
+# Zedwork application information
+
+Static application information, privacy and use notices only.
+
+The private desktop application, school records, credentials and backups are not in this repository.
